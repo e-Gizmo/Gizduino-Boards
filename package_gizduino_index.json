@@ -1,0 +1,47 @@
+{
+  "packages": [
+    {
+      "name": "Gizduino",
+      "maintainer": "e-Gizmo",
+      "websiteURL": "http://www.e-gizmo.com/",
+      "email": "egizmo.mechatronix.central@gmail.com",
+      "help": {
+        "online": "http://www.e-gizmo.com"
+      },
+      "platforms": [
+        {
+          "name": "Gizduino Boards",
+          "architecture": "avr",
+          "version": "1.6.2",
+          "category": "Atmega",
+          "checksum": "",
+          "size": "",
+          "boards": [
+            {"name": "Gizduino X (ATmega1281)"},
+            {"name": "Gizduino+ w/ ATmega644"},
+            {"name": "Gizduino IOT-644"},
+            {"name": "Gizduino+ w/ ATmega324"},
+            {"name": "Gizduino+ w/ ATmega164"},
+            {"name": "Gizduino(mini) w/ ATmega328"},
+            {"name": "Gizduino(mini) w/ ATmega168"},
+            {"name": "Gizduino(mini) w/ ATmega88 (16 MHz)"},
+            {"name": "Gizduino(mini) w/ ATmega8 (8 MHz)"},
+            {"name": "Gizduino miniUSB w/ ATmega328"},
+            {"name": "Gizduino miniUSB w/ ATmega168"},
+            {"name": "Gizduino+ (mini) w/ ATmega644 (Sanguino Mode)"},
+            {"name": "Gizduino+ (mini) w/ ATmega324 (Sanguino Mode)"},
+            {"name": "Gizduino+ (mini) w/ ATmega164 (Sanguino Mode)"},
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino2"
+            }
+          ]
+        },
