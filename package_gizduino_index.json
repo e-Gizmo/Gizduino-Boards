@@ -2,20 +2,25 @@
   "packages": [
     {
       "name": "Gizduino",
-      "maintainer": "e-Gizmo",
-      "websiteURL": "http://www.e-gizmo.com/",
-      "email": "egizmo.mechatronix.central@gmail.com",
+      "maintainer": "Gizduino",
+      "websiteURL": "http://www.gizduino.com",
+      "email": "mon.egizmo@yahoo.com",
       "help": {
-        "online": "http://www.e-gizmo.com"
+        "online": "ymsgr:sendIM?mon.egizmo"
       },
       "platforms": [
         {
           "name": "Gizduino Boards",
-          "architecture": "avr",
-          "version": "1.6.2",
-          "category": "Atmega",
-          "checksum": "",
-          "size": "",
+          "architecture": "Gizduino",
+          "version": "5.0",
+          "category": "Gizduino",
+          "url": "https://drive.google.com/file/d/0BxdLxDCD6HidUW5EN3Y1b1RBaEU/view",
+          "archiveFileName": "gizduino patch",
+          "checksum": "SHA-256:b0dd7bf82ad7e98c8650c71603b70ddc5877c191ab149d858dfa81d2fbb6ac4d",
+          "size": "37676704",
+          "help":{
+               "online":"ymsgr:sendIM?mon.egizmo"
+               },
           "boards": [
             {"name": "Gizduino X (ATmega1281)"},
             {"name": "Gizduino+ w/ ATmega644"},
