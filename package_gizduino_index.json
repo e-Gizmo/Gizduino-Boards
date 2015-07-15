@@ -14,10 +14,10 @@
           "architecture": "Gizduino",
           "version": "5.0",
           "category": "Gizduino",
-          "url": "https://drive.google.com/file/d/0BxdLxDCD6HidUW5EN3Y1b1RBaEU/view",
-          "archiveFileName": "gizduino patch",
-          "checksum": "SHA-256:b0dd7bf82ad7e98c8650c71603b70ddc5877c191ab149d858dfa81d2fbb6ac4d",
-          "size": "37676704",
+          "url": "https://github.com/e-Gizmo/Gizduino-Boards/blob/master/download-package/gizduino-patch-v1.0.0.rar",
+          "archiveFileName": "gizduino-patch-v1.0.0.rar",
+          "checksum": "SHA-256:9edd280fa0f8f1733c90b4a8b0e634299283e3f0",
+          "size": "",
           "help":{
                "online":"ymsgr:sendIM?mon.egizmo"
                },
